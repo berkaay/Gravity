@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 2695008747b82420cac747d8264eb652
+timeCreated: 1478589403
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blobAll_0
+    21300002: blobAll_1
+    21300004: blobAll_2
+    21300006: blobAll_3
+    21300008: blobAll_4
+    21300010: blobAll_5
+    21300012: blobAll_6
+    21300014: blobAll_7
+    21300016: blobAll_8
+    21300018: blobAll_9
+    21300020: blobAll_10
+    21300022: blobAll_11
+    21300024: blobAll_12
+    21300026: blobAll_13
+    21300028: blobAll_14
+    21300030: blobAll_15
+    21300032: blobAll_16
+    21300034: blobAll_17
+    21300036: blobAll_18
+    21300038: blobAll_19
+    21300040: blobAll_20
+    21300042: blobAll_21
+    21300044: blobAll_22
+    21300046: blobAll_23
+    21300048: blobAll_24
+    21300050: blobAll_25
+    21300052: blobAll_26
+    21300054: blobAll_27
+    21300056: blobAll_28
+    21300058: blobAll_29
+    21300060: blobAll_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: blobAll_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 409
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blobAll_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 437
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blobAll_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 447
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blobAll_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 440
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blobAll_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 391
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 24}
+        - {x: -17.5, y: 15}
+        - {x: -17.5, y: -24}
+        - {x: 17.5, y: -24}
+        - {x: 17.5, y: 18}
+        - {x: 15.5, y: 24}
+    - name: blobAll_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 391
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -21, y: 5}
+        - {x: -21, y: -20}
+        - {x: 21, y: -20}
+        - {x: 21, y: 8}
+        - {x: 12, y: 20}
+    - name: blobAll_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 391
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blobAll_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 398
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blobAll_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 394
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blobAll_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 325
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blobAll_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 323
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blobAll_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 320
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -16.5}
+        - {x: 24, y: -5.5}
+        - {x: 18, y: 20.5}
+        - {x: 14, y: 28.5}
+        - {x: -20, y: 28.5}
+        - {x: -25, y: 6.5}
+        - {x: -25, y: -29.5}
+        - {x: -19, y: -31.5}
+        - {x: 18, y: -31.5}
+        - {x: 18, y: -29.5}
+        - {x: 17, y: -27.5}
+        - {x: 21, y: -21.5}
+      - - {x: 28, y: -21.5}
+        - {x: 30, y: -23.5}
+        - {x: 31, y: -23.5}
+        - {x: 31, y: -17.5}
+        - {x: 28, y: -18.5}
+      - - {x: -28, y: -10.5}
+        - {x: -28, y: -7.5}
+        - {x: -31, y: -6.5}
+        - {x: -31, y: -11.5}
+      - - {x: -31, y: 15.5}
+        - {x: -29, y: 13.5}
+        - {x: -26, y: 14.5}
+        - {x: -26, y: 17.5}
+        - {x: -28, y: 19.5}
+        - {x: -31, y: 18.5}
+      - - {x: -31, y: 31.5}
+        - {x: -31, y: 27.5}
+        - {x: -29, y: 27.5}
+        - {x: -27, y: 29.5}
+        - {x: -27, y: 31.5}
+    - name: blobAll_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 322
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25.5}
+        - {x: -21, y: 14.5}
+        - {x: -21, y: -24.5}
+        - {x: -14, y: -32.5}
+        - {x: 12, y: -32.5}
+        - {x: 15, y: -29.5}
+        - {x: 15, y: 14.5}
+        - {x: 10, y: 25.5}
+      - - {x: 18, y: -11.5}
+        - {x: 20, y: -13.5}
+        - {x: 21, y: -13.5}
+        - {x: 21, y: -7.5}
+        - {x: 18, y: -8.5}
+      - - {x: 6, y: 24.5}
+        - {x: 6, y: 23.5}
+        - {x: 9, y: 20.5}
+        - {x: 12, y: 21.5}
+        - {x: 12, y: 24.5}
+        - {x: 10, y: 26.5}
+        - {x: 8, y: 26.5}
+      - - {x: -10, y: 28.5}
+        - {x: -7, y: 29.5}
+        - {x: -7, y: 32.5}
+        - {x: -12, y: 32.5}
+        - {x: -12, y: 30.5}
+    - name: blobAll_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 178
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 24}
+        - {x: -9, y: 20}
+        - {x: -20, y: 6}
+        - {x: -20, y: -20}
+        - {x: -18, y: -24}
+        - {x: 15, y: -24}
+        - {x: 20, y: -22}
+        - {x: 20, y: 20}
+        - {x: 19, y: 24}
+    - name: blobAll_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 178
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 16.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -24.5, y: -16.5}
+        - {x: 24.5, y: -16.5}
+        - {x: 24.5, y: 11.5}
+        - {x: 19.5, y: 16.5}
+      - - {x: -17.5, y: 16.5}
+        - {x: -17.5, y: 13.5}
+        - {x: -16.5, y: 11.5}
+        - {x: -14.5, y: 11.5}
+        - {x: -11.5, y: 14.5}
+        - {x: -12.5, y: 16.5}
+    - name: blobAll_15
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 176
+        width: 87
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blobAll_16
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 178
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 47}
+        - {x: -20.5, y: 47}
+        - {x: -25.5, y: 29}
+        - {x: -25.5, y: -47}
+        - {x: 28.5, y: -47}
+        - {x: 28.5, y: -38}
+        - {x: 14.5, y: 45}
+      - - {x: -29.5, y: -35}
+        - {x: -26.5, y: -34}
+        - {x: -26.5, y: -31}
+        - {x: -28.5, y: -29}
+        - {x: -29.5, y: -29}
+      - - {x: -20.5, y: -34}
+        - {x: -17.5, y: -33}
+        - {x: -17.5, y: -30}
+        - {x: -20.5, y: -29}
+        - {x: -22.5, y: -31}
+      - - {x: -15.5, y: -28}
+        - {x: -13.5, y: -30}
+        - {x: -10.5, y: -29}
+        - {x: -10.5, y: -26}
+        - {x: -12.5, y: -24}
+        - {x: -15.5, y: -25}
+      - - {x: 25.5, y: 6}
+        - {x: 26.5, y: 3}
+        - {x: 29.5, y: 3}
+        - {x: 29.5, y: 8}
+        - {x: 27.5, y: 8}
+    - name: blobAll_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 186
+        width: 37
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 56.5}
+        - {x: -18.5, y: 53.5}
+        - {x: -18.5, y: -23.5}
+        - {x: -2.5, y: -54.5}
+        - {x: 9.5, y: -54.5}
+        - {x: 15.5, y: -53.5}
+        - {x: 15.5, y: 56.5}
+    - name: blobAll_18
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 194
+        width: 20
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blobAll_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 118
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24.5}
+        - {x: -20, y: 9.5}
+        - {x: -20, y: -24.5}
+        - {x: 20, y: -24.5}
+        - {x: 20, y: 13.5}
+        - {x: 15, y: 24.5}
+    - name: blobAll_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 118
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 27.5}
+        - {x: -4.5, y: 27.5}
+        - {x: -9.5, y: 21.5}
+        - {x: -18.5, y: -9.5}
+        - {x: -18.5, y: -27.5}
+        - {x: 18.5, y: -27.5}
+        - {x: 18.5, y: 9.5}
+        - {x: 16.5, y: 24.5}
+    - name: blobAll_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 117
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 21.5}
+        - {x: -4.5, y: 20.5}
+        - {x: -21.5, y: -3.5}
+        - {x: -21.5, y: -21.5}
+        - {x: 21.5, y: -21.5}
+        - {x: 21.5, y: 15.5}
+        - {x: 16.5, y: 21.5}
+    - name: blobAll_22
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 115
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 18}
+        - {x: -3, y: 18}
+        - {x: -28, y: 0}
+        - {x: -28, y: -18}
+        - {x: 28, y: -18}
+        - {x: 28, y: -2}
+        - {x: 21, y: 17}
+    - name: blobAll_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 116
+        width: 57
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blobAll_24
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 114
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blobAll_25
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 113
+        width: 63
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blobAll_26
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 111
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blobAll_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 52
+        width: 77
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blobAll_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 26}
+        - {x: -21, y: 0}
+        - {x: -21, y: -25}
+        - {x: -19, y: -26}
+        - {x: 17, y: -26}
+        - {x: 21, y: -24}
+        - {x: 21, y: -9}
+        - {x: 11, y: 26}
+    - name: blobAll_29
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 52
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 27.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -24.5, y: -19.5}
+        - {x: -18.5, y: -27.5}
+        - {x: 12.5, y: -27.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 21.5}
+        - {x: 22.5, y: 27.5}
+    - name: blobAll_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 54
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 24}
+        - {x: -17.5, y: 18}
+        - {x: -17.5, y: -22}
+        - {x: -16.5, y: -24}
+        - {x: 16.5, y: -24}
+        - {x: 17.5, y: -23}
+        - {x: 17.5, y: 23}
+        - {x: 15.5, y: 24}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
